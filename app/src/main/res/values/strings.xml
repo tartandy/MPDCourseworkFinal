@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MPDCWahunte206</string>
+    <string name="homeTitle">MPD Coursework</string>
+    <string name="homeName">Andrew Hunter</string>
+    <string name="homeID">S1512543</string>
+    <string name="homeButton">Browse Quakes</string>
+    <string name="url">http://quakes.bgs.ac.uk/feeds/MhSeismology.xml</string>
+    <string name="source">Source</string>
+    <string name="longitudeLabel">Longitude:  </string>
+    <string name="latitudeLabel">Latitude:  </string>
+    <string name="depthLabel">Depth:  </string>
+    <string name="dateLabel">Date:  </string>
+    <string name="back">Back</string>
+    <string name="filter_button">Filter button</string>
+    <string name="clear">Clear</string>
+    <string name="filter">Filter</string>
+    <string name="end_date">End date:</string>
+    <string name="start_date">Start date:</string>
+</resources>

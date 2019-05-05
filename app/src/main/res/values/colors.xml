@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!--Colors for magnitude-->
+    <color name="mag1">#4DE500</color>
+    <color name="mag2">#73E100</color>
+    <color name="mag3">#98DD00</color>
+    <color name="mag4">#BBD900</color>
+    <color name="mag5">#D5CE00</color>
+    <color name="mag6">#D2A500</color>
+    <color name="mag7">#CE7F00</color>
+    <color name="mag8">#CA5900</color>
+    <color name="mag9">#C63500</color>
+    <color name="mag10">#C21200</color>
+    <color name="mag11">#BF0000</color>
+
+</resources>
